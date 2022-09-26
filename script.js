@@ -7,15 +7,15 @@ function carregar() {
     msg.innerHTML = `Agora são ${hora} horas.`
     if (hora >= 0 && hora < 12) {
         //BOM DIA!
-        img.src = 'dia.jpg'
+        img.src = 'dia.png'
         document.body.style.background = '#FFE4B5'
     } else if (hora >= 12 && hora <= 18) {
         //BOA TARDE!
-        img.src = 'tarde.jpg'
+        img.src = 'tarde.png'
         document.body.style.background = '#D8BFD8'
     } else {
         //BOA NOITE!
-        img.src = 'noite.jpg'
+        img.src = 'noite.png'
         document.body.style.background = '#5F9EA0'
     }
 }
