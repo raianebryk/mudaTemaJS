@@ -1,0 +1,20 @@
+{
+  "name": "mudatemajs",
+  "version": "1.0.0",
+  "description": "Um projeto básico feito em JavaScript que altera o tema conforme o horário da sua máquina.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raianebryk/mudaTemaJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raianebryk/mudaTemaJS/issues"
+  },
+  "homepage": "https://github.com/raianebryk/mudaTemaJS#readme"
+}
